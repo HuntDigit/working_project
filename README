@@ -1,0 +1,4 @@
+This project will started and finished using only iPad and simple tool like Swift Playground and iOS App from AppStore like Working Copy, Documents, and similar.
+
+Simple project to create UI for working project and then transfer to real project.
+Will use UIKit and bridge to SwiftUI to correct show builded views
